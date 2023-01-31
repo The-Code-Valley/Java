@@ -1,2 +1,2 @@
 # Java
-In this repo you can examples of java programs for practice!
+In this repo you can add examples of java for practice!
